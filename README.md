@@ -1,2 +1,2 @@
 # Lambda-authenticate-with-API-Gateway
-Lambda function that trigger by API-gateway to authenticate new member
+Lambda function that triggered by API-gateway to authenticate new member.
